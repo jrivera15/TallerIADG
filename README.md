@@ -1,4 +1,4 @@
-# <center>🌍 Introducción al análisis de datos geoespaciales con QGIS y Python</center> 
+# <p align="center">🌍 Introducción al análisis de datos geoespaciales con QGIS y Python</p> 
 <p align="center">María Janneth Rivera Reyna</p>
 <p align="center">Universidad de Sonora</p>
 <p align="center">Octubre 2025</p>
